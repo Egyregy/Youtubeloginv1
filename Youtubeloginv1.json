@@ -9,7 +9,7 @@
     "admin_contact_url": "https://wa.me/6285215459396"
   },
   "status_config": {
-    "maintenance_enabled": true,
+    "maintenance_enabled": false,
     "maintenance_message": "Server aplikasi sedang dalam perbaikan maintenance . Mohon di cek secara berkala ✨\n©Egyregy",
     "force_show_enabled": true,
     "remote_check_interval_ms": 30000,
