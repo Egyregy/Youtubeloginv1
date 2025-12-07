@@ -1,0 +1,83 @@
+{
+  "dialog_config": {
+    "title": "Selamat datang USER ",
+    "subtitle": "Segera Melakukan pendaftaran akun via ADMIN",
+    "background_color_hex": "#DAA520",
+    "profile_image_url": "https://riot-us.com/wp-content/uploads/2025/09/Still-23-%C2%A9Copyright_-%C2%A9Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable.jpg",
+    "button_login_text": "Login",
+    "button_contact_text": "Admin Contact",
+    "admin_contact_url": "https://wa.me/6285215459396"
+  },
+  "status_config": {
+    "maintenance_enabled": false,
+    "maintenance_message": "Server aplikasi sedang dalam perbaikan maintenance . Mohon di cek secara berkala ✨\n©Egyregy",
+    "force_show_enabled": false,
+    "remote_check_interval_ms": 30000,
+    "dialog_show_interval_ms": 7200000,
+    "auth_success_toast": "Login berhasil\nSELAMAT DATANG ✨",
+    "auth_expired_toast": "Subscription expired. Please renew it from admin.",
+    "auth_invalid_toast": "Username & Password tidak terdaftar!"
+  },
+  "users": [
+    {
+  "username": "test_user",
+      "password": "test_pass",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00002",
+      "expiry_date_utc": "2024-11-01"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
+    }
+  ]
+}
